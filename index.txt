@@ -1,3 +1,9 @@
--Quem ama é luz e seres de luz não morrem
--Baile da Gaiola
--Só os loucos sabem
+git init
+git config user.name <seu_nome>
+git config user.email <seu_email>
+git status
+git add  <nome_do_arquivo>
+git status
+git commit -m'Seu comentario'
+git push <Link> master
+
